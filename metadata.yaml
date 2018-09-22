@@ -1,16 +1,21 @@
 _repo: Peggy-Plays-Off-Broadway-Peggy-Lane-Theater-Stories-2_55815
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leone, Sergio
     gutenberg_agent_id: '48534'
     url: http://www.gutenberg.org/2009/agents/48534
+covers:
+- cover_type: archival
+  image_path: 55815-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Virginia
     gutenberg_agent_id: '48533'
     url: http://www.gutenberg.org/2009/agents/48533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55815#Peggy-Plays-Off-Broadway-Peggy-Lane-Theater-Stories-2
 gutenberg_issued: '2017-10-26'
 gutenberg_type: Text
 identifiers:
